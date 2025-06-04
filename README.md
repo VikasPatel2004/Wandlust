@@ -48,7 +48,7 @@ Check out the live version of the project:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/sumitthakur2103/Wanderlust.git
+   git clone https://github.com/VikasPatel2004/Wanderlust.git
    cd Wanderlust
    ```
 
@@ -79,6 +79,6 @@ Check out the live version of the project:
  
 
 ## Contact
-For any queries or contributions, feel free to reach out at : tsumit0505@gmail.com, sumitthakur8511@gmail.com.
+For any queries or contributions, feel free to reach out at : vp0552850@gmail.com.
 
 
